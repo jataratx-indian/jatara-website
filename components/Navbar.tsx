@@ -38,7 +38,7 @@ export default function Navbar({ forceDark = false }: NavbarProps) {
           <img
             src="/images/logo.jpeg"
             alt="Jatara Indian Kitchen"
-            className="h-42 w-auto object-contain"
+            className="h-20 w-auto object-contain"
           />
         </Link>
 
