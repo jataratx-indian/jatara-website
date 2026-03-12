@@ -55,7 +55,7 @@ export default function Navbar({ forceDark = false }: NavbarProps) {
 
         {/* CTA */}
         <a
-          href="https://order.toasttab.com/online/mana-adda-indian-kitchen-2361-e-university-dr "
+          href="https://order.toasttab.com/online/2361%20e%20university%20dr%20ste%2090"
           target="_blank"
           rel="noopener noreferrer"
               className="bg-[#e67e22] text-white px-6 py-3 uppercase tracking-wider text-sm hover:bg-[#cf6d15] transition duration-300"
